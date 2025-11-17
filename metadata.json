@@ -1,0 +1,5 @@
+{
+  "name": "Tyre Inventory Manager",
+  "description": "A modern, mobile-first web application for managing tyre inventory. Features include stock tracking, order alerts, and quick management actions, all secured with a fast PIN-based login.",
+  "requestFramePermissions": []
+}
